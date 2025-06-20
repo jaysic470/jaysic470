@@ -25,11 +25,12 @@ I’m an aspiring **Data Analyst** with a passion for finding patterns, telling 
 
 | Project | Description |
 |--------|-------------|
-| [Customer Churn Prediction](https://github.com/jaysic470/customer-churn) | Predicted telecom customer churn using logistic regression, XGBoost, and LightGBM. |
-| [Instacart Basket Analysis](https://github.com/jaysic470/instacart-eda) | Conducted EDA on grocery basket data to uncover shopping patterns and user behavior. |
-| [Vehicle Price Modeling](https://github.com/jaysic470/car-price-regression) | Built regression models to predict used car prices based on vehicle specs. |
-| [Sentiment Classifier](https://github.com/jaysic470/sentiment-analysis) | Created a text classification model using TF-IDF and logistic regression. |
+| Telecom Customer Churn | Built and evaluated machine learning models to predict customer churn using service, contract, and demographic data from a telecom provider. |
+| Revenue-Driven Budget | Analyzed telecom usage patterns and plan profitability to recommend how a company should allocate its advertising budget based on revenue impact. |
+| Videogame SDA | Explored sales data across genres, platforms, and regions to identify gaming trends and test hypotheses about user ratings and market behavior. |
+| Carsales Price Predictions | Developed and compared multiple regression models to accurately predict used car prices based on vehicle attributes and listing data. |
 
+###  -📚 [Project Repositories](https://github.com/jaysic470/Data-Projects-TripleTen)-
 ---
 
 ## 📈 GitHub Stats
